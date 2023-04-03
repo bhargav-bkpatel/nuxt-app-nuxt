@@ -6,37 +6,9 @@
           © All rights reserved
           <span v-html="rawjdh8"></span>
         </span>
-        <a
-          href="https://www.teleporthq.io"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          <span class="copyright-text2">@TeleportHQ.</span>
-        </a>
-        <span class="copyright-text3">
-          Powered by
-          <span v-html="rawiwb2"></span>
-        </span>
-        <a
-          href="https://www.vercel.com"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          <span class="copyright-text4">Vercel</span>
-        </a>
-        <span class="copyright-text5">
-          . Image source:
-          <span v-html="raw7sjo"></span>
-        </span>
-        <a
-          href="https://www.unsplash.com"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          <span class="copyright-text6">Unsplash</span>
-        </a>
-        <span class="copyright-text7">.</span>
-      </span>
+       
+          <span class="copyright-text2">@Bhargav</span>
+     </span>
     </div>
   </div>
 </template>
